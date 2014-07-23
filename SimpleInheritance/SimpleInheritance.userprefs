@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Arrays\Main.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SimpleInheritance\Program.cs">
     <Files>
-      <File FileName="Arrays\Main.cs" Line="17" Column="30" />
+      <File FileName="SimpleInheritance\Program.cs" Line="27" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

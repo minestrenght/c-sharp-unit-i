@@ -30,7 +30,7 @@ namespace Arrays
 			char[,] vowels = {
 				{'a', 'e'},
 				{'i', 'o'},
-				{'u'}
+				{'u', ' '}
 			};
 			Console.Write("Vowels are: ");
 			foreach(char c in vowels) {

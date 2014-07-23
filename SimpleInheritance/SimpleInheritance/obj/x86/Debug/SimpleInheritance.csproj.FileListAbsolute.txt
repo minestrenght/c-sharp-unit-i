@@ -1,0 +1,5 @@
+E:\arvind\RnD\mine\c-sharp-unit-i\SimpleInheritance\SimpleInheritance\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\arvind\RnD\mine\c-sharp-unit-i\SimpleInheritance\SimpleInheritance\bin\Debug\SimpleInheritance.exe
+E:\arvind\RnD\mine\c-sharp-unit-i\SimpleInheritance\SimpleInheritance\bin\Debug\SimpleInheritance.pdb
+E:\arvind\RnD\mine\c-sharp-unit-i\SimpleInheritance\SimpleInheritance\obj\x86\Debug\SimpleInheritance.exe
+E:\arvind\RnD\mine\c-sharp-unit-i\SimpleInheritance\SimpleInheritance\obj\x86\Debug\SimpleInheritance.pdb
