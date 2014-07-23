@@ -1,0 +1,5 @@
+E:\arvind\RnD\mine\c-sharp-unit-i\SimpleClassMembers\SimpleClassMembers\bin\Debug\SimpleClassMembers.exe
+E:\arvind\RnD\mine\c-sharp-unit-i\SimpleClassMembers\SimpleClassMembers\bin\Debug\SimpleClassMembers.pdb
+E:\arvind\RnD\mine\c-sharp-unit-i\SimpleClassMembers\SimpleClassMembers\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\arvind\RnD\mine\c-sharp-unit-i\SimpleClassMembers\SimpleClassMembers\obj\x86\Debug\SimpleClassMembers.exe
+E:\arvind\RnD\mine\c-sharp-unit-i\SimpleClassMembers\SimpleClassMembers\obj\x86\Debug\SimpleClassMembers.pdb
