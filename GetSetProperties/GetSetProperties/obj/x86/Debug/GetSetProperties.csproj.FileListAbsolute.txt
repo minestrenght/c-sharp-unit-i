@@ -1,0 +1,5 @@
+E:\arvind\RnD\mine\c-sharp-unit-i\GetSetProperties\GetSetProperties\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\arvind\RnD\mine\c-sharp-unit-i\GetSetProperties\GetSetProperties\bin\Debug\GetSetProperties.exe
+E:\arvind\RnD\mine\c-sharp-unit-i\GetSetProperties\GetSetProperties\bin\Debug\GetSetProperties.pdb
+E:\arvind\RnD\mine\c-sharp-unit-i\GetSetProperties\GetSetProperties\obj\x86\Debug\GetSetProperties.exe
+E:\arvind\RnD\mine\c-sharp-unit-i\GetSetProperties\GetSetProperties\obj\x86\Debug\GetSetProperties.pdb
